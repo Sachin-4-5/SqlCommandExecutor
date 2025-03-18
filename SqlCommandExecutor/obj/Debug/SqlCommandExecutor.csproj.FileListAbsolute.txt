@@ -1,0 +1,7 @@
+D:\Projects\Console Application - 2\SqlCommandExecutor\bin\Debug\SqlCommandExecutor.exe.config
+D:\Projects\Console Application - 2\SqlCommandExecutor\bin\Debug\SqlCommandExecutor.exe
+D:\Projects\Console Application - 2\SqlCommandExecutor\bin\Debug\SqlCommandExecutor.pdb
+D:\Projects\Console Application - 2\SqlCommandExecutor\obj\Debug\SqlCommandExecutor.csproj.AssemblyReference.cache
+D:\Projects\Console Application - 2\SqlCommandExecutor\obj\Debug\SqlCommandExecutor.csproj.CoreCompileInputs.cache
+D:\Projects\Console Application - 2\SqlCommandExecutor\obj\Debug\SqlCommandExecutor.exe
+D:\Projects\Console Application - 2\SqlCommandExecutor\obj\Debug\SqlCommandExecutor.pdb
