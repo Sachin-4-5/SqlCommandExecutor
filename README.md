@@ -46,7 +46,7 @@ SqlCommandExecutor enhances reporting, data processing, security, and auditing i
 
 ## 🛠 Prerequisites
 - Visual Studio 2019 or later
-- .NET Framework 4.7.2
+- .NET Framework v4.7.2
 - SQL Server (Local or Remote)
 - A configured database
 
